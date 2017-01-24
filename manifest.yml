@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: memoapp-ryunoguchi
-  host: memoapp-ryunoguchi
+  name: memoapp1-ryunoguchi
+  host: memoapp1-ryunoguchi
   disk_quota: 1024M
